@@ -1,8 +1,3 @@
-package com.xunim.desafio;
-
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 /**
  * Programa que verifica o ambiente Java instalado na máquina.
  * Ele mostra:
@@ -10,13 +5,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *  - Fornecedor do JDK
  *  - Valor da variável JAVA_HOME
  *  - Se a versão ativa é Java 21 (versão do curso)
+ *
+ *  COMO EXECUTAR
+ *   - No terminal, dentro da pasta onde esta o arquivo
+ *   javac VerificadorAmbienteJava.java
+ *   java VerificadorAmbienteJava
  */
-@SpringBootApplication
-public class DesafioApplication {
+public class VerificadorAmbienteJava {
 
     public static void main(String[] args) {
-
-        SpringApplication.run(DesafioApplication.class, args);
 
         // Obtém a versão do Java em uso
         String javaVersion = System.getProperty("java.version");
