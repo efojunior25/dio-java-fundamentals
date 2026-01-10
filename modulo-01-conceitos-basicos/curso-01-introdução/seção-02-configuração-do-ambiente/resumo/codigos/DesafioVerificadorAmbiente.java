@@ -8,10 +8,10 @@
  *
  *  COMO EXECUTAR
  *   - No terminal, dentro da pasta onde esta o arquivo
- *   javac VerificadorAmbienteJava.java
- *   java VerificadorAmbienteJava
+ *   javac DesafioVerificadorAmbiente.java
+ *   java DesafioVerificadorAmbiente.java
  */
-public class VerificadorAmbienteJava {
+public class DesafioVerificadorAmbienteJava {
 
     public static void main(String[] args) {
 
