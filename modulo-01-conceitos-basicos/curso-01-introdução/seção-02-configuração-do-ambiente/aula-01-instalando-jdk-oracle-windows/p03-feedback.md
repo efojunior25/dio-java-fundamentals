@@ -1,0 +1,1 @@
+Nesta aula foi aprendido como instalar o Java 21 no Windows, configurar corretamente as variáveis JAVA_HOME e PATH e validar que o ambiente está funcional para executar e compilar aplicações Java via terminal.

@@ -1,0 +1,1 @@
+Este vídeo mostrou como o Java surgiu a partir de uma visão de dispositivos conectados, evoluiu com a internet, conquistou o mercado com o conceito de multiplataforma e se manteve relevante graças à sua estabilidade, compatibilidade e modelo de versões LTS.

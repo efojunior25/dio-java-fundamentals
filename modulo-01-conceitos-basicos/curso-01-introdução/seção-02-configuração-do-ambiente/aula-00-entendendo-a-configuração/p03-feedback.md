@@ -1,0 +1,1 @@
+Este conteúdo apresentou a base necessária para qualquer desenvolvedor Java, explicando o que é o JDK, por que o PATH é essencial, quais distribuições existem e como validar que o ambiente está corretamente configurado para começar a programar.

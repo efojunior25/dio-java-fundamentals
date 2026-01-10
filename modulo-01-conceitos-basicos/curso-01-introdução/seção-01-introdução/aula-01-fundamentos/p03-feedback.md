@@ -1,0 +1,1 @@
+Este vídeo apresentou o instrutor, sua trajetória profissional e a estrutura completa da formação em Java, deixando claro que o curso foi pensado para levar o aluno do zero até conceitos avançados como annotations, frameworks e persistência em banco de dados, com foco em mercado e boas práticas de desenvolvimento.
