@@ -11,7 +11,7 @@
  *   javac DesafioVerificadorAmbiente.java
  *   java DesafioVerificadorAmbiente.java
  */
-public class DesafioVerificadorAmbienteJava {
+public class DesafioVerificadorAmbiente {
 
     public static void main(String[] args) {
 
