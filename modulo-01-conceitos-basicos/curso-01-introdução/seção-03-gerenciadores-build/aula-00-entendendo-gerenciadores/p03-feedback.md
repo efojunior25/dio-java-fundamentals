@@ -1,0 +1,1 @@
+Nesta etapa aprendi o que é o processo de build, por que ele é essencial no desenvolvimento Java e como ferramentas como Maven e Gradle automatizam a compilação, o gerenciamento de dependências e o empacotamento dos projetos.

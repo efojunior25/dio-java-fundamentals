@@ -1,0 +1,1 @@
+Nesta aula aprendi a instalar manualmente o Maven no Windows, configurar as variáveis MAVEN_HOME e PATH e diagnosticar problemas reais de permissão que impedem o comando mvn de funcionar corretamente.

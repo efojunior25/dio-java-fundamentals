@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16a5f7b9-24fc-45d6-81d0-fee60429cee9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-00-entendendo-gerenciadores/codigos-exemplo/C01-VerificadorMavenGradle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-00-entendendo-gerenciadores/p01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-00-entendendo-gerenciadores/p02-perguntas-respondidas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-00-entendendo-gerenciadores/p03-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-00-entendendo-gerenciadores/p04-observações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-01-instalando-maven/codigos-exemplo/C01-VerificadorMaven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-01-instalando-maven/p01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-01-instalando-maven/p02-perguntas-respondidas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-01-instalando-maven/p03-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-01-instalando-maven/p04-observações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-02-instalando-gradle/codigos-exemplo/C01-VerificadorGradle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-02-instalando-gradle/p01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-02-instalando-gradle/p02-perguntas-respondidas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-02-instalando-gradle/p03-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/aula-02-instalando-gradle/p04-observações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/resumo/codigos/VerificadorBuildTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/resumo/r01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/resumo/r02-desafio-codigo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/resumo/r03-prova.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-03-gerenciadores-build/resumo/r04-entrevista.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-01-instalando-intellij/codigos-exemplo/C01-HelloIntelliJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-01-instalando-intellij/p01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-01-instalando-intellij/p02-perguntas-respondidas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-01-instalando-intellij/p03-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-01-instalando-intellij/p04-observações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-02-executando-intellij/codigos-exemplo/C01-PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-02-executando-intellij/p01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-02-executando-intellij/p02-perguntas-respondidas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-02-executando-intellij/p03-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-01-introdução/seção-04-IntelliJ-instalando-executando/aula-02-executando-intellij/p04-observações.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/codigos-exemplos/Comentarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/codigos-exemplos/EstruturaBasica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/codigos-exemplos/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/p01-resumo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/p02-perguntas-respondidas.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/p03-feedback.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo-01-conceitos-basicos/curso-02-fundamentos-java/aula-01-conceitos-padroes-desenvolvimento/p04-observações.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;efojunior25&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/efojunior25/dio-java-fundamentals&quot;,
+    &quot;accountId&quot;: &quot;3744aec0-2f1b-4477-90fe-3777bd9d45c8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="384WJvGKPgwYdWS0JCoUnJA3ABd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [-version].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DesafioApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/edson/OneDrive/Documentos/Profissional/Portifolio/dio-java-fundamentals/modulo-01-conceitos-basicos/curso-02-fundamentos-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-02-fundamentos-java" />
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução" />
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução\seção-03-gerenciadores-build" />
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução\seção-02-configuração-do-ambiente" />
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução\seção-02-configuração-do-ambiente\aula-02-instalando-jdk-amazon-linux" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução\seção-02-configuração-do-ambiente\resumo" />
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução\modulo-01-introdução" />
+      <recent name="C:\Users\edson\OneDrive\Documentos\Profissional\Portifolio\dio-java-fundamentals\modulo-01-conceitos-basicos\curso-01-introdução" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16a5f7b9-24fc-45d6-81d0-fee60429cee9" name="Changes" comment="" />
+      <created>1768059255675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768059255675</updated>
+      <workItem from="1768059258007" duration="8627000" />
+      <workItem from="1768141219547" duration="49000" />
+      <workItem from="1768141286536" duration="37000" />
+      <workItem from="1768141330448" duration="91000" />
+      <workItem from="1768141451893" duration="7843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

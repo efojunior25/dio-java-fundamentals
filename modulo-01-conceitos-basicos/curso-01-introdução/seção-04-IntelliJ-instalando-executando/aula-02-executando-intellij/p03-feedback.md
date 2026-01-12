@@ -1,0 +1,1 @@
+Nesta aula aprendi a criar, compilar e executar um programa Java no IntelliJ, usar argumentos de linha de comando, configurar execuções e utilizar o debug para inspecionar e testar o comportamento do código.
